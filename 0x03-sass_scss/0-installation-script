@@ -1,4 +1,4 @@
 using Node.js on my windows PC, I installed Sass using npm by running
  
- ``` npm install sass -v 3.7.4 ```
+ ``` npm install -g sass ```
 
