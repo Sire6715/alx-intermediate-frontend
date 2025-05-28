@@ -1,7 +1,7 @@
 /// <reference path="Teacher.ts" />
 
 namespace Subjects {
-    export class subject {
+    export class Subject {
         teacher: Teacher;
 
         setTeacher(teacher: Teacher) {
@@ -9,4 +9,3 @@ namespace Subjects {
         }
     }
   }
-
